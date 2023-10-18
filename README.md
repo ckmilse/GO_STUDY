@@ -1,2 +1,1 @@
 # GO_STUDY
-# GO_STUDY
